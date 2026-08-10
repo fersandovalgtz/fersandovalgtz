@@ -1,4 +1,4 @@
-# Fernando Sandoval Gutiérrez
+# Fernando Sandoval Gutierrez
 
 **Profesor-investigador en educación | Universidad Autónoma de Ciudad Juárez (UACJ) | Integrante del SNII**  
 **Education researcher | teaching practice · inclusion · interculturality · history of education · digital humanities**
