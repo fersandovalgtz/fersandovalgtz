@@ -1,10 +1,11 @@
 # Fernando Sandoval Gutiérrez
 
-**Profesor-investigador en educación | Universidad Autónoma de Ciudad Juárez (UACJ)**  
+**Profesor-investigador en educación | Universidad Autónoma de Ciudad Juárez (UACJ) | Integrante del SNII**  
 **Education researcher | teaching practice · inclusion · interculturality · history of education · digital humanities**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3168--6725-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3168-6725)
 [![UACJ](https://img.shields.io/badge/UACJ-Profesor--investigador-1f4e79)](https://www.uacj.mx/DMC/)
+[![CATHI UACJ](https://img.shields.io/badge/CATHI--UACJ-Producción%20académica-8A1538)](https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Fernando%20Sandoval-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Fernando-Sandoval-Gutierrez)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-Fernando%20Sandoval-41454A?logo=academia&logoColor=white)](https://uacj.academia.edu/FernandoSandoval)
 
@@ -50,6 +51,7 @@ Rarámuri Digital publica un conjunto de datos lexicográficos reproducible con 
 ## Perfiles académicos · Academic profiles
 
 - [ORCID 0000-0002-3168-6725](https://orcid.org/0000-0002-3168-6725)
+- [Repositorio institucional CATHI-UACJ](https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author)
 - [ResearchGate](https://www.researchgate.net/profile/Fernando-Sandoval-Gutierrez)
 - [Academia.edu — UACJ](https://uacj.academia.edu/FernandoSandoval)
 - [ResearchID](https://researchid.co/fersandovalg)
