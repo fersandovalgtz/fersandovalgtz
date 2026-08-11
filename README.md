@@ -19,6 +19,7 @@
   <a href="RESEARCH.md"><strong>Arquitectura de investigación</strong></a> ·
   <a href="OUTPUTS.md"><strong>Producción científica</strong></a> ·
   <a href="OPEN-SCIENCE.md"><strong>Ciencia abierta</strong></a> ·
+  <a href="PROFILE.en.md"><strong>English profile</strong></a> ·
   <a href="https://github.com/fersandovalgtz/raramuri-digital"><strong>Rarámuri Digital</strong></a>
 </p>
 
