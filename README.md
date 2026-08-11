@@ -27,7 +27,7 @@
 
 ## Research hub
 
-Este repositorio funciona como **puerta de entrada a mi trabajo científico**. No pretende sustituir ORCID, un currículum o un repositorio institucional: organiza la trayectoria de investigación, conecta publicaciones con líneas intelectuales y documenta la expansión hacia datos, software de investigación e infraestructura académica reproducible.
+Utilizo este repositorio como **puerta de entrada a mi trabajo científico**. No busca sustituir ORCID, mi currículum ni los repositorios institucionales; aquí organizo mis líneas de investigación, conecto publicaciones con problemas intelectuales de largo plazo y documento la expansión de mi trabajo hacia datos, software de investigación e infraestructura académica reproducible.
 
 <table>
 <tr>
@@ -46,14 +46,14 @@ Este repositorio funciona como **puerta de entrada a mi trabajo científico**. N
 
 #### 🔬 [Arquitectura de investigación](RESEARCH.md)
 
-Cómo se relacionan práctica docente, inclusión, interculturalidad, formación del profesorado, historia educativa, educación superior y humanidades digitales.
+Explico cómo se relacionan en mi trabajo la práctica docente, la inclusión, la interculturalidad, la formación del profesorado, la historia educativa, la educación superior y las humanidades digitales.
 
 </td>
 <td width="50%" valign="top">
 
 #### 📚 [Producción científica](OUTPUTS.md)
 
-Selección razonada de artículos, libros, capítulos, materiales educativos y datos, organizada por periodos y líneas de trabajo.
+Organizo una selección de mis artículos, libros, capítulos, materiales educativos y datos por periodos y líneas de trabajo.
 
 </td>
 </tr>
@@ -62,14 +62,14 @@ Selección razonada de artículos, libros, capítulos, materiales educativos y d
 
 #### ♻️ [Ciencia abierta](OPEN-SCIENCE.md)
 
-Criterios de trazabilidad, versionado, interoperabilidad, preservación, citación, gobernanza y reutilización de productos científicos digitales.
+Documento los criterios que aplico a trazabilidad, versionado, interoperabilidad, preservación, citación, gobernanza y reutilización de productos científicos digitales.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🧭 [Rarámuri Digital](https://github.com/fersandovalgtz/raramuri-digital)
 
-Infraestructura lexicográfica rarámuri–español: dataset, API, TEI Lex-0, documentación científica, DOI, control de calidad y preservación.
+Mi principal infraestructura científica digital: un recurso lexicográfico rarámuri–español con dataset, API, TEI Lex-0, documentación científica, DOI, control de calidad y preservación.
 
 </td>
 </tr>
@@ -81,9 +81,9 @@ Infraestructura lexicográfica rarámuri–español: dataset, API, TEI Lex-0, do
   <img src="assets/research-ecosystem.svg" alt="Mapa del ecosistema de investigación" width="100%">
 </p>
 
-La **práctica docente** es el núcleo que mantiene continuidad en la trayectoria. Desde ahí se conectan problemas de inclusión y educación especial, interculturalidad y contextos indígenas, historia y memoria escolar, formación del profesorado, educación superior y, desde 2026, una agenda explícita de humanidades digitales e infraestructura científica.
+La **práctica docente** es el núcleo que da continuidad a mi trayectoria. Desde ahí conecto problemas de inclusión y educación especial, interculturalidad y contextos indígenas, historia y memoria escolar, formación del profesorado, educación superior y, desde 2026, una agenda explícita de humanidades digitales e infraestructura científica.
 
-[Explorar la arquitectura completa →](RESEARCH.md)
+[Explorar mi arquitectura de investigación →](RESEARCH.md)
 
 ## Repositorios científicos y educativos
 
@@ -93,14 +93,14 @@ La **práctica docente** es el núcleo que mantiene continuidad en la trayectori
 
 ### 🏛️ [Historia de la educación en Chihuahua](https://github.com/fersandovalgtz/historia-educacion-chihuahua)
 
-Archivo digital de investigación para fuentes históricas, cronologías, instituciones, memoria escolar y datos derivados, con un esquema explícito de procedencia documental.
+Desarrollo este archivo digital de investigación para organizar fuentes históricas, cronologías, instituciones, memoria escolar y datos derivados con un esquema explícito de procedencia documental.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 [Docencia, bienestar e inclusión](https://github.com/fersandovalgtz/docencia-bienestar-inclusion)
 
-Infraestructura metodológica para investigación educativa reproducible. Separa de forma estricta documentación pública y datos primarios sensibles.
+Organizo aquí infraestructura metodológica para investigación educativa reproducible, con separación estricta entre documentación pública y datos primarios sensibles.
 
 </td>
 </tr>
@@ -109,14 +109,14 @@ Infraestructura metodológica para investigación educativa reproducible. Separa
 
 ### 📖 [Recursos educativos abiertos](https://github.com/fersandovalgtz/recursos-educativos-abiertos)
 
-Materiales didácticos seleccionados para formación docente, inclusión, evaluación, planeación y educación superior, preparados para reutilización responsable.
+Reúno materiales didácticos seleccionados para formación docente, inclusión, evaluación, planeación y educación superior, preparados para reutilización responsable.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🪶 [Rarámuri · recursos educativos](https://github.com/fersandovalgtz/raramuri-recursos-educativos)
 
-Capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades y materiales educativos con criterios de procedencia, atribución y gobernanza cultural.
+Desarrollo esta capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades y materiales educativos con criterios de procedencia, atribución y gobernanza cultural.
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ Capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades 
   <a href="https://github.com/fersandovalgtz/raramuri-digital/commits/main"><img src="https://img.shields.io/github/last-commit/fersandovalgtz/raramuri-digital?style=flat-square&label=último%20commit" alt="Último commit"></a>
 </p>
 
-**Infraestructura lexicográfica rarámuri–español para investigación, docencia, humanidades digitales y desarrollo de aplicaciones.** Publica un conjunto de datos reproducible con 2,581 entradas, 30 productos derivados, identificadores persistentes, trazabilidad documental, exportaciones interoperables, API pública y documentación científica.
+Con **Rarámuri Digital** desarrollo una infraestructura lexicográfica rarámuri–español para investigación, docencia, humanidades digitales y desarrollo de aplicaciones. El proyecto publica un conjunto de datos reproducible con 2,581 entradas, 30 productos derivados, identificadores persistentes, trazabilidad documental, exportaciones interoperables, API pública y documentación científica.
 
 | Capa | Implementación |
 |---|---|
@@ -146,9 +146,9 @@ Capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades 
 | **Preservación** | Zenodo · Software Heritage · Git |
 | **Gobernanza** | derechos lingüísticos · procedencia · validación comunitaria pendiente |
 
-> La publicación del recurso está autorizada para difusión; la validación lingüística comunitaria permanece pendiente. La disponibilidad técnica no sustituye la autoridad lingüística de las comunidades hablantes.
+> La publicación del recurso está autorizada para difusión; la validación lingüística comunitaria permanece pendiente. Distingo de forma explícita entre disponibilidad técnica, procedencia documental y autoridad lingüística de las comunidades hablantes.
 
-[Consultar Rarámuri Digital →](https://raramuri.ceees.mx) · [Revisar su arquitectura científica →](OPEN-SCIENCE.md)
+[Consultar Rarámuri Digital →](https://raramuri.ceees.mx) · [Revisar mis criterios de ciencia abierta →](OPEN-SCIENCE.md)
 
 ## Producción reciente seleccionada
 
@@ -160,7 +160,7 @@ Capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades 
 
 **2025 — Pensar la universidad desde el aula: aportes y desafíos del Modelo Educativo Visión 2040 en la Universidad Autónoma de Ciudad Juárez.** *DOCERE*. [DOI 10.33064/2025docere338683](https://doi.org/10.33064/2025docere338683)
 
-[Ver panorama de producción →](OUTPUTS.md)
+[Ver mi panorama de producción →](OUTPUTS.md)
 
 ## Trayectoria
 
@@ -168,7 +168,7 @@ Capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades 
   <img src="assets/trajectory.svg" alt="Trayectoria académica 2003 a 2026" width="100%">
 </p>
 
-La continuidad no está en un único tema, sino en una forma de mirar la educación: recuperar la experiencia situada de escuelas, docentes, instituciones y comunidades; relacionarla con su contexto; y producir evidencia que pueda circular en forma de libros, artículos, testimonios, materiales educativos, datos e infraestructura digital.
+La continuidad de mi trayectoria no está en un único tema, sino en una forma de mirar la educación: recuperar la experiencia situada de escuelas, docentes, instituciones y comunidades, relacionarla con su contexto y producir evidencia que pueda circular como libros, artículos, testimonios, materiales educativos, datos e infraestructura digital.
 
 ## Identidad académica
 
@@ -176,7 +176,7 @@ La continuidad no está en un único tema, sino en una forma de mirar la educaci
 
 ## Colaboración académica
 
-Interesado en colaboración en **investigación educativa, práctica docente, inclusión, interculturalidad, historia de la educación, humanidades digitales, documentación lingüística, datos abiertos y software de investigación**.
+Me interesa colaborar en **investigación educativa, práctica docente, inclusión, interculturalidad, historia de la educación, humanidades digitales, documentación lingüística, datos abiertos y software de investigación**.
 
 **Contacto institucional:** [fernando.sandoval@uacj.mx](mailto:fernando.sandoval@uacj.mx)
 
