@@ -3,11 +3,30 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/fersandovalgtz/fersandovalgtz/actions/workflows/validate-profile.yml"><img src="https://github.com/fersandovalgtz/fersandovalgtz/actions/workflows/validate-profile.yml/badge.svg?branch=main" alt="Validación del perfil"></a>
   <a href="https://orcid.org/0000-0002-3168-6725"><img src="https://img.shields.io/badge/ORCID-0000--0002--3168--6725-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://scholar.google.com/citations?user=zNZsYYAAAAAJ&hl=es"><img src="https://img.shields.io/badge/Google%20Scholar-perfil%20académico-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author"><img src="https://img.shields.io/badge/CATHI--UACJ-producción%20académica-8A1538?style=flat-square" alt="CATHI UACJ"></a>
+  <a href="https://orcid.org/0000-0002-3168-6725"><img src="https://img.shields.io/badge/ORCID%20snapshot-43%20works%20%C2%B7%20Aug%202026-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="43 works in ORCID August 2026"></a>
+  <a href="https://www.uacj.mx/"><img src="https://img.shields.io/badge/UACJ-PTC%20%C2%B7%202009%E2%80%94-8A1538?style=flat-square" alt="UACJ PTC since 2009"></a>
+  <a href="https://rexe.cl/index.php/rexe/article/view/3129"><img src="https://img.shields.io/badge/SNII-Nivel%20I-7a263a?style=flat-square" alt="SNII Nivel I"></a>
+  <a href="https://rexe.cl/index.php/rexe/article/view/3129"><img src="https://img.shields.io/badge/Cuerpo%20Acad%C3%A9mico-UACJ--113-5b4b8a?style=flat-square" alt="UACJ-113"></a>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=zNZsYYAAAAAJ&hl=es"><img src="https://img.shields.io/badge/Google%20Scholar-perfil%20acad%C3%A9mico-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author"><img src="https://img.shields.io/badge/CATHI--UACJ-producci%C3%B3n%20acad%C3%A9mica-8A1538?style=flat-square" alt="CATHI UACJ"></a>
   <a href="https://www.researchgate.net/profile/Fernando-Sandoval-Gutierrez"><img src="https://img.shields.io/badge/ResearchGate-perfil-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href="https://doi.org/10.5281/zenodo.21483353"><img src="https://img.shields.io/badge/Zenodo-Rarámuri%20Digital-1682D4?style=flat-square&logo=zenodo&logoColor=white" alt="Zenodo"></a>
+  <a href="https://researchid.co/fersandovalg"><img src="https://img.shields.io/badge/ResearchID-fersandovalg-3b5b92?style=flat-square" alt="ResearchID"></a>
+  <a href="https://uacj.academia.edu/FernandoSandoval"><img src="https://img.shields.io/badge/Academia.edu-perfil-41454A?style=flat-square&logo=academia&logoColor=white" alt="Academia.edu"></a>
+  <a href="https://doi.org/10.5281/zenodo.21483353"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21483353.svg" alt="Rarámuri Digital DOI"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/fersandovalgtz?style=flat-square&logo=github&label=seguidores" alt="GitHub followers">
+  <img src="https://img.shields.io/github/stars/fersandovalgtz?affiliations=OWNER&style=flat-square&logo=github&label=stars" alt="GitHub stars">
+  <img src="https://img.shields.io/badge/repositorios%20p%C3%BAblicos-6-181717?style=flat-square&logo=github" alt="6 repositorios públicos">
+  <img src="https://img.shields.io/badge/pa%C3%ADs-M%C3%A9xico-006847?style=flat-square" alt="México">
+  <img src="https://img.shields.io/badge/ciencia-abierta-2d6a4f?style=flat-square" alt="Ciencia abierta">
+  <img src="https://img.shields.io/badge/humanidades-digitales-3b5b92?style=flat-square" alt="Humanidades digitales">
 </p>
 
 <p align="center">
@@ -37,6 +56,16 @@ Utilizo este repositorio como **puerta de entrada a mi trabajo científico**. No
 <td width="25%" align="center"><strong>30</strong><br><sub>productos derivados<br>de datos e infraestructura</sub></td>
 </tr>
 </table>
+
+### Estado del ecosistema científico
+
+<p align="center">
+  <a href="https://github.com/fersandovalgtz/raramuri-digital/actions/workflows/validate.yml"><img src="https://github.com/fersandovalgtz/raramuri-digital/actions/workflows/validate.yml/badge.svg?branch=main" alt="Rarámuri Digital CI"></a>
+  <a href="https://github.com/fersandovalgtz/historia-educacion-chihuahua/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/historia-educacion-chihuahua/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="Historia CI"></a>
+  <a href="https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="Docencia CI"></a>
+  <a href="https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="REA CI"></a>
+  <a href="https://github.com/fersandovalgtz/raramuri-recursos-educativos/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/raramuri-recursos-educativos/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="Rarámuri recursos CI"></a>
+</p>
 
 ### Cuatro puertas de entrada
 
@@ -93,14 +122,18 @@ La **práctica docente** es el núcleo que da continuidad a mi trayectoria. Desd
 
 ### 🏛️ [Historia de la educación en Chihuahua](https://github.com/fersandovalgtz/historia-educacion-chihuahua)
 
-Desarrollo este archivo digital de investigación para organizar fuentes históricas, cronologías, instituciones, memoria escolar y datos derivados con un esquema explícito de procedencia documental.
+[![CI](https://github.com/fersandovalgtz/historia-educacion-chihuahua/actions/workflows/validate-repository.yml/badge.svg?branch=main)](https://github.com/fersandovalgtz/historia-educacion-chihuahua/actions/workflows/validate-repository.yml)
+
+Archivo digital de investigación para fuentes históricas, cronologías, hemerografía, instituciones, memoria escolar y datos derivados con procedencia documental explícita. Incluye una línea hemerográfica ya conectada con producción publicada en 2026.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 [Docencia, bienestar e inclusión](https://github.com/fersandovalgtz/docencia-bienestar-inclusion)
 
-Organizo aquí infraestructura metodológica para investigación educativa reproducible, con separación estricta entre documentación pública y datos primarios sensibles.
+[![CI](https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml/badge.svg?branch=main)](https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml)
+
+Infraestructura metodológica para investigación educativa reproducible: métodos mixtos, ocho dominios analíticos, instrumentos versionados y separación estricta entre documentación pública y datos primarios sensibles.
 
 </td>
 </tr>
@@ -109,14 +142,18 @@ Organizo aquí infraestructura metodológica para investigación educativa repro
 
 ### 📖 [Recursos educativos abiertos](https://github.com/fersandovalgtz/recursos-educativos-abiertos)
 
-Reúno materiales didácticos seleccionados para formación docente, inclusión, evaluación, planeación y educación superior, preparados para reutilización responsable.
+[![CI](https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml/badge.svg?branch=main)](https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml)
+
+Sistema de curación y documentación de materiales didácticos para formación docente, inclusión, evaluación, planeación y educación superior, con revisión de derechos, accesibilidad, privacidad y atribución.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🪶 [Rarámuri · recursos educativos](https://github.com/fersandovalgtz/raramuri-recursos-educativos)
 
-Desarrollo esta capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades y materiales educativos con criterios de procedencia, atribución y gobernanza cultural.
+[![CI](https://github.com/fersandovalgtz/raramuri-recursos-educativos/actions/workflows/validate-repository.yml/badge.svg?branch=main)](https://github.com/fersandovalgtz/raramuri-recursos-educativos/actions/workflows/validate-repository.yml)
+
+Capa pedagógica complementaria a Rarámuri Digital para actividades, cuadernos y materiales educativos con procedencia, variación lingüística, seguridad cultural y validación situada.
 
 </td>
 </tr>
@@ -129,9 +166,11 @@ Desarrollo esta capa pedagógica complementaria a Rarámuri Digital para cuadern
 <p>
   <a href="https://github.com/fersandovalgtz/raramuri-digital"><img src="https://img.shields.io/badge/GitHub-raramuri--digital-181717?style=flat-square&logo=github" alt="Repositorio"></a>
   <a href="https://raramuri.ceees.mx"><img src="https://img.shields.io/badge/web-raramuri.ceees.mx-172033?style=flat-square" alt="Sitio público"></a>
-  <a href="https://doi.org/10.5281/zenodo.21483353"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21483353-1682D4?style=flat-square" alt="DOI"></a>
-  <a href="https://github.com/fersandovalgtz/raramuri-digital/actions/workflows/validate.yml"><img src="https://img.shields.io/github/actions/workflow/status/fersandovalgtz/raramuri-digital/validate.yml?branch=main&style=flat-square&label=validación" alt="Validación"></a>
-  <a href="https://github.com/fersandovalgtz/raramuri-digital/commits/main"><img src="https://img.shields.io/github/last-commit/fersandovalgtz/raramuri-digital?style=flat-square&label=último%20commit" alt="Último commit"></a>
+  <a href="https://doi.org/10.5281/zenodo.21483353"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21483353.svg" alt="DOI"></a>
+  <a href="https://github.com/fersandovalgtz/raramuri-digital/actions/workflows/validate.yml"><img src="https://img.shields.io/github/actions/workflow/status/fersandovalgtz/raramuri-digital/validate.yml?branch=main&style=flat-square&label=validaci%C3%B3n" alt="Validación"></a>
+  <a href="https://github.com/fersandovalgtz/raramuri-digital/commits/main"><img src="https://img.shields.io/github/last-commit/fersandovalgtz/raramuri-digital?style=flat-square&label=%C3%BAltimo%20commit" alt="Último commit"></a>
+  <a href="https://github.com/fersandovalgtz/raramuri-digital/stargazers"><img src="https://img.shields.io/github/stars/fersandovalgtz/raramuri-digital?style=flat-square&logo=github" alt="Stars"></a>
+  <a href="https://github.com/fersandovalgtz/raramuri-digital/forks"><img src="https://img.shields.io/github/forks/fersandovalgtz/raramuri-digital?style=flat-square&logo=github" alt="Forks"></a>
 </p>
 
 Con **Rarámuri Digital** desarrollo una infraestructura lexicográfica rarámuri–español para investigación, docencia, humanidades digitales y desarrollo de aplicaciones. El proyecto publica un conjunto de datos reproducible con 2,581 entradas, 30 productos derivados, identificadores persistentes, trazabilidad documental, exportaciones interoperables, API pública y documentación científica.
@@ -151,6 +190,10 @@ Con **Rarámuri Digital** desarrollo una infraestructura lexicográfica rarámur
 [Consultar Rarámuri Digital →](https://raramuri.ceees.mx) · [Revisar mis criterios de ciencia abierta →](OPEN-SCIENCE.md)
 
 ## Producción reciente seleccionada
+
+**2026 — Gobernar la embriaguez: Antialcoholismo, consumo y administración de la contradicción en Chihuahua (1932-1934).** *Chihuahua Hoy*. [DOI 10.20983/chihuahuahoy.2026.24.7](https://doi.org/10.20983/chihuahuahoy.2026.24.7)
+
+**2026 — Rarámuri Digital: conjunto de datos lexicográficos rarámuri–español.** Zenodo. [DOI 10.5281/zenodo.21483353](https://doi.org/10.5281/zenodo.21483353)
 
 **2025 — La práctica docente en el aula de cristal.** *Revista de Estudios y Experiencias en Educación*. [DOI 10.21703/rexe.v24i55.3129](https://doi.org/10.21703/rexe.v24i55.3129)
 

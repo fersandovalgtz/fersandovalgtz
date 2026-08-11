@@ -4,11 +4,14 @@
 
 Mi registro público de ORCID muestra **43 obras** al corte de agosto de 2026. Esta página no intenta replicar mi currículum completo; organizo aquí una selección de productos que permite leer la evolución temática y metodológica de mi trayectoria.
 
-## 2026 · Datos e infraestructura de investigación
+## 2026 · Historia, datos e infraestructura de investigación
 
-**Rarámuri Digital: conjunto de datos lexicográficos rarámuri–español.** Dataset y plataforma de investigación. Zenodo. [DOI 10.5281/zenodo.21483353](https://doi.org/10.5281/zenodo.21483353) · [Repositorio](https://github.com/fersandovalgtz/raramuri-digital) · [Sitio público](https://raramuri.ceees.mx)
+| Producto | Tipo / fuente | Enlace persistente |
+|---|---|---|
+| **Gobernar la embriaguez: Antialcoholismo, consumo y administración de la contradicción en Chihuahua (1932-1934)** | Artículo · *Chihuahua Hoy* · corpus hemerográfico de 165 notas | [DOI 10.20983/chihuahuahoy.2026.24.7](https://doi.org/10.20983/chihuahuahoy.2026.24.7) |
+| **Rarámuri Digital: conjunto de datos lexicográficos rarámuri–español** | Dataset e infraestructura · Zenodo | [DOI 10.5281/zenodo.21483353](https://doi.org/10.5281/zenodo.21483353) · [Repositorio](https://github.com/fersandovalgtz/raramuri-digital) |
 
-Con este producto extiendo una línea previa de interculturalidad y recursos educativos hacia datos estructurados, documentación científica, interoperabilidad, preservación y reutilización computacional.
+Estos productos muestran dos vertientes convergentes de mi agenda actual: conversión de corpus documentales en investigación histórica verificable y construcción de datos estructurados, interoperables y preservables para reutilización científica.
 
 ## 2025 · Práctica docente, paz y educación superior
 
@@ -17,15 +20,17 @@ Con este producto extiendo una línea previa de interculturalidad y recursos edu
 | **La práctica docente en el aula de cristal. Redefiniendo la enseñanza hacia el segundo cuarto del siglo XXI** | Artículo · *Revista de Estudios y Experiencias en Educación* | [DOI 10.21703/rexe.v24i55.3129](https://doi.org/10.21703/rexe.v24i55.3129) |
 | **Estrategias pedagógicas para la prevención de la violencia: el rol de la práctica docente en la creación de culturas de paz** | Artículo · *RECIE* | [DOI 10.33010/recie.v9i0.2430](https://doi.org/10.33010/recie.v9i0.2430) |
 | **Prácticas educativas emergentes: la docencia en el nivel superior como herramienta de vinculación y responsabilidad social** | Artículo · *QVADRATA* | [DOI 10.54167/qvadrata.v7i13.1831](https://doi.org/10.54167/qvadrata.v7i13.1831) |
+| **Pensar la universidad desde el aula: aportes y desafíos del Modelo Educativo Visión 2040 en la Universidad Autónoma de Ciudad Juárez** | Artículo · *DOCERE* | [DOI 10.33064/2025docere338683](https://doi.org/10.33064/2025docere338683) |
 
 ## 2021–2022 · Interculturalidad, contexto y práctica docente
 
 | Producto | Tipo / fuente | Enlace |
 |---|---|---|
 | **Práctica docente a muchas voces. La experiencia Colombia-México de aprendizajes compartidos** | Artículo · *Biníriame* | [DOI 10.20983/biniriame.2022.2.2](https://doi.org/10.20983/biniriame.2022.2.2) |
+| **Práctica docente asistida con recursos digitales. Mapu tamu rarámuri ra’íchabo** | Reporte técnico · CATHI-UACJ | [Registro institucional](https://cathi.uacj.mx/handle/20.500.11961/31228) |
 | **Población y desafíos en el noroeste del estado de Chihuahua, México. Una mirada desde la escuela pública** | Artículo · *Economía, Población y Desarrollo* | [DOI 10.20983/epd.2021.63.1](https://doi.org/10.20983/epd.2021.63.1) |
 | **Competencias esperadas en el joven maestro mexicano. Práctica docente e identidad** | Artículo · *Biníriame* | [DOI 10.20983/biniriame.2021.1.4](https://doi.org/10.20983/biniriame.2021.1.4) |
-| **Rarámuri. Nivel inicial. Cuaderno para el maestro** | Libro / material educativo · UACJ | [Referencia en ORCID](https://orcid.org/0000-0002-3168-6725) |
+| **Rarámuri. Nivel inicial. Cuaderno para el maestro** | Libro / material educativo · UACJ | [Referencia UACJ](https://www.uacj.mx/internacionalizacion/boletin/UACJinternacional/2021/libro-raramuri.html) |
 
 ## 2020 · Educación especial, memoria e historia educativa
 
@@ -52,6 +57,6 @@ Con este producto extiendo una línea previa de interculturalidad y recursos edu
 
 ## Perfiles para consulta exhaustiva
 
-[ORCID](https://orcid.org/0000-0002-3168-6725) · [Google Scholar](https://scholar.google.com/citations?user=zNZsYYAAAAAJ&hl=es) · [CATHI-UACJ](https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author) · [ResearchGate](https://www.researchgate.net/profile/Fernando-Sandoval-Gutierrez)
+[ORCID](https://orcid.org/0000-0002-3168-6725) · [Google Scholar](https://scholar.google.com/citations?user=zNZsYYAAAAAJ&hl=es) · [CATHI-UACJ](https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author) · [ResearchGate](https://www.researchgate.net/profile/Fernando-Sandoval-Gutierrez) · [ResearchID](https://researchid.co/fersandovalg)
 
 > Los conteos entre plataformas académicas no son directamente equivalentes. Para este perfil utilizo ORCID como referencia de inventario porque ofrece identificación persistente y procedencia explícita de los registros.
