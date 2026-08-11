@@ -4,13 +4,13 @@
 
 **Full-time Professor-Researcher, Universidad Autónoma de Ciudad Juárez (UACJ), Mexico · Mexico's National System of Researchers (SNII), Level I**
 
-Fernando Sandoval Gutierrez is an educational researcher whose work examines **teaching practice, teacher education, inclusion, interculturality, special education, history of education, school memory and higher education**. His research increasingly connects these fields with **digital humanities, open scholarly resources and reproducible research infrastructure**.
+I am an educational researcher working on **teaching practice, teacher education, inclusion, interculturality, special education, history of education, school memory and higher education**. My recent work increasingly connects these fields with **digital humanities, open scholarly resources and reproducible research infrastructure**.
 
-ORCID records his full-time research appointment at Universidad Autónoma de Ciudad Juárez from 2009 to the present and lists 43 works as of August 2026. His doctorate in Education was completed at Universidad Autónoma de Chihuahua between 2010 and 2015.
+My ORCID record lists my full-time research appointment at Universidad Autónoma de Ciudad Juárez from 2009 to the present and 43 works as of August 2026. I completed my doctorate in Education at Universidad Autónoma de Chihuahua between 2010 and 2015.
 
 ## Research architecture
 
-Teaching practice is the central analytical thread connecting several areas of inquiry:
+I use teaching practice as the central analytical thread connecting several areas of inquiry:
 
 - **Teaching practice and teacher development:** professional identity, everyday classroom life, emotions, relationships, pedagogical change and social responsibility.
 - **Inclusion and special education:** disability, educational difference, migration, recognition and the gap between institutional policy and situated practice.
@@ -21,13 +21,13 @@ Teaching practice is the central analytical thread connecting several areas of i
 
 ## Featured research infrastructure · Rarámuri Digital
 
-[Rarámuri Digital](https://github.com/fersandovalgtz/raramuri-digital) is a Rarámuri–Spanish lexicographic research infrastructure designed for scholarly consultation, teaching, digital humanities and application development. It currently publishes **2,581 lexicographic entries** and **30 derived products**.
+I develop [Rarámuri Digital](https://github.com/fersandovalgtz/raramuri-digital) as a Rarámuri–Spanish lexicographic research infrastructure for scholarly consultation, teaching, digital humanities and application development. It currently publishes **2,581 lexicographic entries** and **30 derived products**.
 
 The project combines a reproducible dataset with persistent identifiers, source traceability, scientific documentation and interoperable exports. Its technical and scholarly stack includes **CSV, JSON, XML, SQL, TEI Lex-0, OpenAPI 3.1, CodeMeta, Citation File Format, SHA-256 integrity manifests, Zenodo DOI and Software Heritage preservation**.
 
 Public access: [raramuri.ceees.mx](https://raramuri.ceees.mx) · DOI: [10.5281/zenodo.21483353](https://doi.org/10.5281/zenodo.21483353)
 
-> The resource is authorized for dissemination, while community linguistic validation remains pending. Technical availability is explicitly distinguished from linguistic authority and community validation.
+> The resource is authorized for dissemination, while community linguistic validation remains pending. I explicitly distinguish technical availability from linguistic authority and community validation.
 
 ## Selected recent publications
 
