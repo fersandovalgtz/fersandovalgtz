@@ -85,6 +85,43 @@ La **práctica docente** es el núcleo que mantiene continuidad en la trayectori
 
 [Explorar la arquitectura completa →](RESEARCH.md)
 
+## Repositorios científicos y educativos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ [Historia de la educación en Chihuahua](https://github.com/fersandovalgtz/historia-educacion-chihuahua)
+
+Archivo digital de investigación para fuentes históricas, cronologías, instituciones, memoria escolar y datos derivados, con un esquema explícito de procedencia documental.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [Docencia, bienestar e inclusión](https://github.com/fersandovalgtz/docencia-bienestar-inclusion)
+
+Infraestructura metodológica para investigación educativa reproducible. Separa de forma estricta documentación pública y datos primarios sensibles.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📖 [Recursos educativos abiertos](https://github.com/fersandovalgtz/recursos-educativos-abiertos)
+
+Materiales didácticos seleccionados para formación docente, inclusión, evaluación, planeación y educación superior, preparados para reutilización responsable.
+
+</td>
+<td width="50%" valign="top">
+
+### 🪶 [Rarámuri · recursos educativos](https://github.com/fersandovalgtz/raramuri-recursos-educativos)
+
+Capa pedagógica complementaria a Rarámuri Digital para cuadernos, actividades y materiales educativos con criterios de procedencia, atribución y gobernanza cultural.
+
+</td>
+</tr>
+</table>
+
 ## Infraestructura científica destacada
 
 ### Rarámuri Digital
