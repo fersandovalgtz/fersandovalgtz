@@ -2,13 +2,13 @@
 
 [← Volver al perfil](README.md) · [Arquitectura de investigación](RESEARCH.md) · [Ciencia abierta](OPEN-SCIENCE.md)
 
-El registro público de ORCID muestra **43 obras** al corte de agosto de 2026. Esta página no intenta replicar el currículum completo: organiza una selección de productos que permiten leer la evolución temática y metodológica de la trayectoria.
+Mi registro público de ORCID muestra **43 obras** al corte de agosto de 2026. Esta página no intenta replicar mi currículum completo; organizo aquí una selección de productos que permite leer la evolución temática y metodológica de mi trayectoria.
 
 ## 2026 · Datos e infraestructura de investigación
 
 **Rarámuri Digital: conjunto de datos lexicográficos rarámuri–español.** Dataset y plataforma de investigación. Zenodo. [DOI 10.5281/zenodo.21483353](https://doi.org/10.5281/zenodo.21483353) · [Repositorio](https://github.com/fersandovalgtz/raramuri-digital) · [Sitio público](https://raramuri.ceees.mx)
 
-El producto extiende una línea previa de interculturalidad y recursos educativos hacia datos estructurados, documentación científica, interoperabilidad, preservación y reutilización computacional.
+Con este producto extiendo una línea previa de interculturalidad y recursos educativos hacia datos estructurados, documentación científica, interoperabilidad, preservación y reutilización computacional.
 
 ## 2025 · Práctica docente, paz y educación superior
 
@@ -48,10 +48,10 @@ El producto extiende una línea previa de interculturalidad y recursos educativo
 
 ## Antecedentes
 
-**La escuela Modelo** (2003), publicada por el Instituto Chihuahuense de la Cultura, constituye uno de los antecedentes más tempranos de la línea de historia de la educación registrada en ORCID. En los años posteriores, esa preocupación por la experiencia histórica de la escuela converge con el estudio de la práctica docente, la vida cotidiana y las instituciones educativas.
+**La escuela Modelo** (2003), publicada por el Instituto Chihuahuense de la Cultura, constituye uno de los antecedentes más tempranos de mi línea de historia de la educación registrada en ORCID. En los años posteriores fui articulando esa preocupación por la experiencia histórica de la escuela con el estudio de la práctica docente, la vida cotidiana y las instituciones educativas.
 
 ## Perfiles para consulta exhaustiva
 
 [ORCID](https://orcid.org/0000-0002-3168-6725) · [Google Scholar](https://scholar.google.com/citations?user=zNZsYYAAAAAJ&hl=es) · [CATHI-UACJ](https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author) · [ResearchGate](https://www.researchgate.net/profile/Fernando-Sandoval-Gutierrez)
 
-> Los conteos entre plataformas académicas no son directamente equivalentes. Para este perfil se utiliza ORCID como referencia de inventario porque ofrece identificación persistente y procedencia explícita de los registros.
+> Los conteos entre plataformas académicas no son directamente equivalentes. Para este perfil utilizo ORCID como referencia de inventario porque ofrece identificación persistente y procedencia explícita de los registros.
