@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/fersandovalgtz?style=flat-square&logo=github&label=seguidores" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/fersandovalgtz?affiliations=OWNER&style=flat-square&logo=github&label=stars" alt="GitHub stars">
-  <img src="https://img.shields.io/badge/repositorios%20p%C3%BAblicos-6-181717?style=flat-square&logo=github" alt="6 repositorios públicos">
   <img src="https://img.shields.io/badge/pa%C3%ADs-M%C3%A9xico-006847?style=flat-square" alt="México">
   <img src="https://img.shields.io/badge/ciencia-abierta-2d6a4f?style=flat-square" alt="Ciencia abierta">
   <img src="https://img.shields.io/badge/humanidades-digitales-3b5b92?style=flat-square" alt="Humanidades digitales">
@@ -62,7 +61,6 @@ Utilizo este repositorio como **puerta de entrada a mi trabajo científico**. No
 <p align="center">
   <a href="https://github.com/fersandovalgtz/raramuri-digital/actions/workflows/validate.yml"><img src="https://github.com/fersandovalgtz/raramuri-digital/actions/workflows/validate.yml/badge.svg?branch=main" alt="Rarámuri Digital CI"></a>
   <a href="https://github.com/fersandovalgtz/historia-educacion-chihuahua/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/historia-educacion-chihuahua/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="Historia CI"></a>
-  <a href="https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="Docencia CI"></a>
   <a href="https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="REA CI"></a>
   <a href="https://github.com/fersandovalgtz/raramuri-recursos-educativos/actions/workflows/validate-repository.yml"><img src="https://github.com/fersandovalgtz/raramuri-recursos-educativos/actions/workflows/validate-repository.yml/badge.svg?branch=main" alt="Rarámuri recursos CI"></a>
 </p>
@@ -129,17 +127,6 @@ Archivo digital de investigación para fuentes históricas, cronologías, hemero
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [Docencia, bienestar e inclusión](https://github.com/fersandovalgtz/docencia-bienestar-inclusion)
-
-[![CI](https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml/badge.svg?branch=main)](https://github.com/fersandovalgtz/docencia-bienestar-inclusion/actions/workflows/validate-repository.yml)
-
-Infraestructura metodológica para investigación educativa reproducible: métodos mixtos, ocho dominios analíticos, instrumentos versionados y separación estricta entre documentación pública y datos primarios sensibles.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📖 [Recursos educativos abiertos](https://github.com/fersandovalgtz/recursos-educativos-abiertos)
 
 [![CI](https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml/badge.svg?branch=main)](https://github.com/fersandovalgtz/recursos-educativos-abiertos/actions/workflows/validate-repository.yml)
@@ -147,7 +134,9 @@ Infraestructura metodológica para investigación educativa reproducible: métod
 Sistema de curación y documentación de materiales didácticos para formación docente, inclusión, evaluación, planeación y educación superior, con revisión de derechos, accesibilidad, privacidad y atribución.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🪶 [Rarámuri · recursos educativos](https://github.com/fersandovalgtz/raramuri-recursos-educativos)
 
