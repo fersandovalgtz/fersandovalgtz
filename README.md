@@ -135,8 +135,6 @@ La continuidad no está en un único tema, sino en una forma de mirar la educaci
 
 ## Identidad académica
 
-El registro público de ORCID consigna la incorporación a la **Universidad Autónoma de Ciudad Juárez en 2009** como Profesor Investigador de Tiempo Completo y el Doctorado en Educación por la Universidad Autónoma de Chihuahua entre 2010 y 2015. Publicaciones recientes lo identifican como **integrante del Sistema Nacional de Investigadoras e Investigadores, Nivel I**. La UACJ documentó además su participación como fundador del campus Cuauhtémoc y su nombramiento como jefe de la División Multidisciplinaria en 2023.
-
 **Perfiles e identificadores:** [ORCID](https://orcid.org/0000-0002-3168-6725) · [Google Scholar](https://scholar.google.com/citations?user=zNZsYYAAAAAJ&hl=es) · [CATHI-UACJ](https://cathi.uacj.mx/handle/20.500.11961/3028/browse?authority=0000-0002-3168-6725&type=author) · [ResearchGate](https://www.researchgate.net/profile/Fernando-Sandoval-Gutierrez) · [Academia.edu](https://uacj.academia.edu/FernandoSandoval) · [ResearchID](https://researchid.co/fersandovalg)
 
 ## Colaboración académica
