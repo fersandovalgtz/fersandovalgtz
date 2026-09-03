@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it."
 title: "FAIR-D / CARE-D documented governance dataset for Indigenous-language digital resources in Mexico"
 type: dataset
+doi: "10.5281/zenodo.22288377"
 authors:
   - family-names: "Sandoval Gutiérrez"
     given-names: "Fernando"
