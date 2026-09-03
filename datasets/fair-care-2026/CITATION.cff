@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it."
+title: "FAIR-D / CARE-D documented governance dataset for Indigenous-language digital resources in Mexico"
+type: dataset
+authors:
+  - family-names: "Sandoval Gutiérrez"
+    given-names: "Fernando"
+version: "1.0"
+date-released: "2026-09-02"
+license: "CC-BY-4.0"
+keywords:
+  - FAIR Principles
+  - CARE Principles
+  - Indigenous data governance
+  - Indigenous languages
+  - digital humanities
+  - Mexico
