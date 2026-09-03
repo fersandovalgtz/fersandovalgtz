@@ -2,6 +2,9 @@
 
 Research data accompanying the manuscript **“Beyond openness: FAIR, CARE, and documented Indigenous data governance in digital language infrastructures in Mexico.”**
 
+## DOI
+Version 1.0 is archived in Zenodo at https://doi.org/10.5281/zenodo.22288377. Cite the Zenodo DOI for the stable archived version; the GitHub directory remains the development/source mirror.
+
 ## Contents
 - `data/fair_care_matrix_main_sample.csv` — the 12 resources used in the main descriptive analysis.
 - `data/fair_care_matrix_all_cases.csv` — all documented cases, including excluded/sensitivity cases.
